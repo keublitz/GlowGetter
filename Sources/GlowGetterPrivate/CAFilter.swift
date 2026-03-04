@@ -7,7 +7,7 @@
 
 import UIKit
 import SwiftUI
-import Obfuscate
+import SwiftMacros
 
 // MARK: - Obfuscated Strings
 
