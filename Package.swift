@@ -24,7 +24,7 @@ let package = Package(
         .target(
             name: "GlowGetterPrivate",
             dependencies: [
-                .product(name: "Obfuscate", package: "Obfuscate")
+                .product(name: "SwiftMacros", package: "SwiftMacros")
             ]),
     ]
 )
