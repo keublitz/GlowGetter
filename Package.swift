@@ -16,7 +16,7 @@ let package = Package(
             targets: ["GlowGetterPrivate"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Aeastr/SwiftMacros.git", from: "1.0.0")
+        .package(url: "https://github.com/Aeastr/SwiftMacros.git", from: "0.3.1")
     ],
     targets: [
         .target(
